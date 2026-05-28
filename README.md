@@ -48,7 +48,7 @@ git status
 - Pulsa el botón fork (parte superior derecha) para crearte una copia del mismo en tu cuenta.
 - Clona el repositorio en tu equipo *en otra carpeta diferente que la llamaremos 'git-practica-2'*. Quedará algo parecido a lo siguiente:
 ```bash
-git clone https://github.com/lalobarri/git-practica-2.git
+git clone https://github.com/[tu-nombre-de-usuario]/git-practica-2.git
 ```
 - Crea un nuevo fichero en el proyecto que se llame [tu-nombre-de-usuario].html
 - Edita el fichero añadiendo como título tu nombre, algún texto y lo que desees en el.
