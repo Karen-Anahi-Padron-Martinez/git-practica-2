@@ -50,21 +50,9 @@ Guarda los comandos realizados, así como los resultados(capturas), integrarlo d
 ![alt text](image-13.png)
 ![alt text](image-14.png)
 ![alt text](image-15.png)
-
-## Preguntas
-Crea un nuevo fichero respuestas.md, contesta las siguientes preguntas y súbelo a tu repositorio remoto de github:
-
- 1. ¿Qué sucede cuando hacemos un git add?
- 2. ¿Qué sucede cuando hacemos un git commit? ¿Dónde está ese commit? 
- 3. ¿Por qué al hacer git commit todavía no está disponible ese commit en el repositorio remoto?
- 4. ¿Qué hay que hacer para que veamos este commit en nuestro repositorio remoto de github?
- 5. ¿Qué diferencia hay entre hacer un fork o crear una nueva rama?
- 6. ¿Qué comando se utiliza para crear una nueva rama sin cambiarte a ella?
- 7. ¿Cuál es la diferencia entre los comandos git switch y git checkout al trabajar con ramas?
- 8. ¿Qué es una rama por defecto (como main o master) y por qué es importante?
- 9. ¿Qué comando te permite ver la lista de todas las ramas locales de tu repositorio?
- 10. En el contexto de Git, explica con tus propias palabras qué es una rama (branch) y cuál es su beneficio principal al trabajar en un proyecto de software
- 11. ¿Qué ha pasado con el contenido de la carpeta practica-taller-git? ¿Por qué no la podemos ver en nuestro repositorio remoto de github?
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
 
 
-*Utilice un formato que permita distinguir entre sus preguntas y respuestas*
